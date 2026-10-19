@@ -1,4 +1,4 @@
-# FreshMargin — F&V Inventory & Finance Advisory POV
+# FreshMargin - F&V Inventory & Finance Advisory POV
 
 **Protecting margin without compromising availability.**
 
