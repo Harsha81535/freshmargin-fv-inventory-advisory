@@ -3,7 +3,8 @@
 **Protecting margin without compromising availability.**
 
 An independent, evidence-led case study exploring how demand signals, inventory risk, expiry exposure and financial decisions can be connected in a fresh-produce business.
-## **[↗ OPEN THE LIVE INTERACTIVE DASHBOARD](https://freshmargin-fv-inventory-advisory-9zvcqhv9m7vw8qvn7hazkx.streamlit.app/)**
+## **[↗ Open the Interactive Business Analysis App](https://freshmargin-fv-inventory-advisory-9zvcqhv9m7vw8qvn7hazkx.streamlit.app/)**
+*Explore the interactive analysis app to connect demand signals, inventory risk, expiry exposure, and financial decisions in fresh-produce retail.*
 
 ## What the app contains
 
